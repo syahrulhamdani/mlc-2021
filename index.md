@@ -228,13 +228,54 @@ What did he write?
 > <span style="font-size: 14px"><em>overheard in every mathematics major in Indonesia</em></span>
 
 ---
+<!-- paginate: true -->
+# Applied Mathematics in Industry
 
-# Manfaat Matematika
+---
+![w:1080px](netflix.png)
+
+---
+<!-- paginate: true -->
+## Recommendation System
+
+---
+<!-- paginate: true -->
+![bg left contain](svd.png)
+
+## Recommendation System
+
+One of the technique is called **collaborative filtering** and it uses **Singular Value Decomposition**.
+
+---
+<!-- paginate: true -->
+![](gmail.gif)
+
+
+Gmail's smart compose ([reference](https://www.slashgear.com/gmail-autocomplete-turn-on-smart-compose-right-now-08530148/)).
+
+---
+<!-- paginate: true -->
+![](lm.png)
+
+In natural language processing (NLP), language model is a chain of probability of what word come next after some words ([reference](https://thegradient.pub/understanding-evaluation-metrics-for-language-models/)).
+
+---
+<!-- paginate: true -->
+
+# How Math Helps (Me)
+
+<!--
+Tell a story about how I learned data science, machine learning, and up to this point
+* Self-paced learning
+* Learning outside formal education, taking online course, researching, reading
+* Challenged myself by taking paid internship
+* Mathematics is always there as a solid foundation of my learning journey
+* Not saying I'm expert at math, I still need to review a lot of basic mathematic laws and concepts
+* As long as you have the foundation and eager to learn, then you're probably doing fine
+-->
 
 ---
 
-# Fun Fact About Math
+# Thank You
 
----
-
-# Pengalaman
+Any questions?
