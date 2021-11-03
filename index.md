@@ -18,7 +18,7 @@ style: |
 
 ---
 <!-- paginate: true -->
-![bg left](profile.JPG)
+![bg left](assets/img/profile.JPG)
 Halo, nama aku Dani 👋🏻
 
 * Sains Komputasi ITB
@@ -28,7 +28,7 @@ Halo, nama aku Dani 👋🏻
 
 ---
 <!-- paginate: true -->
-![bg left](profile.JPG)
+![bg left](assets/img/profile.JPG)
 
 ## Experiences
 
@@ -179,13 +179,13 @@ Hence, to demistify this, let's first take a look from academia perspective.
 
 ---
 <!-- paginate: true -->
-![bg right:40%](newton.jpeg)
+![bg right:40%](assets/img/newton.jpeg)
 
 Who's this?
 
 ---
 <!-- paginate: true -->
-![bg right:40%](newton.jpeg)
+![bg right:40%](assets/img/newton.jpeg)
 
 Who's this?
 **Sir Isaac Newton**
@@ -201,11 +201,11 @@ What did he write?
 ## Laws of Motion
 
 ---
-![bg:50%](principia-mathematica.png)
+![bg:50%](assets/img/principia-mathematica.png)
 
 ---
-![bg](chemical-graph-theory.tiff)
-![bg](nuning-ppms.png)
+![bg](assets/img/chemical-graph-theory.tiff)
+![bg](assets/img/nuning-ppms.png)
 
 ---
 <!-- paginate: true -->
@@ -217,10 +217,10 @@ What did he write?
 > <span style="font-size: 14px"><em>overheard in every mathematics major in Indonesia</em></span>
 
 ---
-![bg contain](wef-jobs-increasing.png)
+![bg contain](assets/img/wef-jobs-increasing.png)
 
 ---
-![bg contain](wef-jobs-decreasing.png)
+![bg contain](assets/img/wef-jobs-decreasing.png)
 
 ---
 <!-- paginate: true -->
@@ -232,7 +232,7 @@ What did he write?
 # Applied Mathematics in Industry
 
 ---
-![w:1080px](netflix.png)
+![w:1080px](assets/img/netflix.png)
 
 ---
 <!-- paginate: true -->
@@ -240,7 +240,7 @@ What did he write?
 
 ---
 <!-- paginate: true -->
-![bg left contain](svd.png)
+![bg left contain](assets/img/svd.png)
 
 ## Recommendation System
 
@@ -248,14 +248,14 @@ One of the technique is called **collaborative filtering** and it uses **Singula
 
 ---
 <!-- paginate: true -->
-![](gmail.gif)
+![](assets/img/gmail.gif)
 
 
 Gmail's smart compose ([reference](https://www.slashgear.com/gmail-autocomplete-turn-on-smart-compose-right-now-08530148/)).
 
 ---
 <!-- paginate: true -->
-![](lm.png)
+![](assets/img/lm.png)
 
 In natural language processing (NLP), language model is a chain of probability of what word come next after some words ([reference](https://thegradient.pub/understanding-evaluation-metrics-for-language-models/)).
 
