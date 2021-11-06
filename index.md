@@ -13,7 +13,7 @@ style: |
   }
 ---
 
-# Matematika dalam Lanskap Industri
+# Mathematics in Industry Landscape
 
 
 ---
@@ -208,10 +208,14 @@ What did he write?
 ![bg](assets/img/nuning-ppms.png)
 
 ---
+<!-- _backgroundColor: black -->
+<!-- _color: white -->
 <!-- paginate: true -->
 ## How about mathematics in industry?
 
 ---
+<!-- _backgroundColor: black -->
+<!-- _color: white -->
 <!-- paginate: true -->
 > "Mau kerja jadi apa nanti lulusan matematika? Di bank?"
 > <span style="font-size: 14px"><em>overheard in every mathematics major in Indonesia</em></span>
@@ -223,6 +227,8 @@ What did he write?
 ![bg contain](assets/img/wef-jobs-decreasing.png)
 
 ---
+<!-- _backgroundColor: black -->
+<!-- _color: white -->
 <!-- paginate: true -->
 > "Mau kerja jadi apa nanti lulusan matematika? Di bank?"
 > <span style="font-size: 14px"><em>overheard in every mathematics major in Indonesia</em></span>
@@ -275,6 +281,8 @@ Tell a story about how I learned data science, machine learning, and up to this 
 -->
 
 ---
+<!-- _backgroundColor: black -->
+<!-- _color: white -->
 
 # Thank You
 
