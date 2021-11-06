@@ -19,7 +19,7 @@ style: |
 ---
 <!-- paginate: true -->
 ![bg left](assets/img/profile.JPG)
-Halo, nama aku Dani 👋🏻
+Hi, I'm Dani 👋🏻
 
 * Sains Komputasi ITB
   *(2017 - 2019)*
